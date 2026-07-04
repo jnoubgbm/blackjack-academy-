@@ -1,1 +1,1 @@
-# blackjack-academy-
+Blackjack Academy - PWA en construction
